@@ -30,13 +30,13 @@
     </fragment>
 
     <fragment
-        android:id="@+id/nav_gallery"
+        android:id="@+id/nav_khoa"
         android:name="uni.tbd.openday.ui.khoa.KhoaFragment"
         android:label="@string/menu_gallery"
         tools:layout="@layout/fragment_khoa" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
+        android:id="@+id/nav_nganh"
         android:name="uni.tbd.openday.ui.nganh.NganhFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_nganh" />
